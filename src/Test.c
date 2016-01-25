@@ -14,5 +14,6 @@
 
 int main(void) {
 	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
+	puts("abc123");
 	return EXIT_SUCCESS;
 }
